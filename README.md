@@ -26,4 +26,4 @@ https://medium.com/@akashmittal18/my-tunes-audio-and-video-player-using-flutter-
 #### Demo of App
 <https://github.com/akashmittal18/My-Tunes-Audio-Video-Player/blob/master/full.mp4>
 <p align="left"><img src="https://github.com/akashmittal18/My-Tunes-Audio-Video-Player/blob/master/splashscreen.jpeg" alt="Splash Screen" /> <img src="https://github.com/akashmittal18/My-Tunes-Audio-Video-Player/blob/master/home.jpeg" alt="Home" /> </p>
-<p align="left"><img src="https://github.com/akashmittal18/My-Tunes-Audio-Video-Player/blob/master/audiolib.jpeg" alt="Audio Library" width="300" height="300"/> <img src="https://github.com/akashmittal18/My-Tunes-Audio-Video-Player/blob/master/video%20library.jpeg" alt="Video Library" width="300" height="300"/> </p>
+<p align="left"><img src="https://github.com/akashmittal18/My-Tunes-Audio-Video-Player/blob/master/audiolib.jpeg" alt="Audio Library" /> <img src="https://github.com/akashmittal18/My-Tunes-Audio-Video-Player/blob/master/video%20library.jpeg" alt="Video Library" /> </p>
