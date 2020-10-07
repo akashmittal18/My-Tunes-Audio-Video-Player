@@ -24,5 +24,5 @@ https://medium.com/@akashmittal18/my-tunes-audio-and-video-player-using-flutter-
 
 
 #### Demo of App
-< src="https://github.com/akashmittal18/My-Tunes-Audio-Video-Player/blob/master/full.mp4">
-<p align="left"><img src="https://github.com/akashmittal18/My-Tunes-Audio-Video-Player/blob/master/splashscreen.jpeg" alt="Splash Screen" width="1000" height="1000"/> <img src="https://github.com/akashmittal18/My-Tunes-Audio-Video-Player/blob/master/home.jpeg" alt="Home" width="1000" height="1000"/> <img src="https://github.com/akashmittal18/My-Tunes-Audio-Video-Player/blob/master/audiolib.jpeg" alt="Audio Library" width="1000" height="1000"/> <img src="https://github.com/akashmittal18/My-Tunes-Audio-Video-Player/blob/master/video%20library.jpeg" alt="Video Library" width="1000" height="1000"/> </p>
+<https://github.com/akashmittal18/My-Tunes-Audio-Video-Player/blob/master/full.mp4>
+<p align="left"><img src="https://github.com/akashmittal18/My-Tunes-Audio-Video-Player/blob/master/splashscreen.jpeg" alt="Splash Screen" width="500" height="500"/> <img src="https://github.com/akashmittal18/My-Tunes-Audio-Video-Player/blob/master/home.jpeg" alt="Home" width="500" height="500"/> <img src="https://github.com/akashmittal18/My-Tunes-Audio-Video-Player/blob/master/audiolib.jpeg" alt="Audio Library" width="500" height="500"/> <img src="https://github.com/akashmittal18/My-Tunes-Audio-Video-Player/blob/master/video%20library.jpeg" alt="Video Library" width="500" height="500"/> </p>
